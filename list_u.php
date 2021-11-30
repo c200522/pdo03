@@ -76,9 +76,7 @@ try{
         ?>
     </td>
     <td>
-        /*  <div class="button-wrapper">
-                    <button type="submit" class="btn btn--naby btn--shadow">編集する</button>
-                </div>  */
+        /*  cmt add  */
 
     </td>
     </tr>
