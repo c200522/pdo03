@@ -76,7 +76,9 @@ try{
         ?>
     </td>
     <td>
-        /*  (2)ここにラジオボタン表示処理を追加して下さい  */
+        /*  <div class="button-wrapper">
+                    <button type="submit" class="btn btn--naby btn--shadow">編集する</button>
+                </div>  */
 
     </td>
     </tr>
