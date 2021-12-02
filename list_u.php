@@ -56,7 +56,7 @@ try{
 
 <div class="container">
 /*  (1)ここに適切な formタグを追加してください  */
-<form action = "edit.php" method = "post"></form>
+<form action = "edit.php" method = "post">
 <table border=1>
     <tr><th>id</th><th>名前</th><th>メールアドレス</th><th>性別</th><th>選択対象</th></tr>
     <?php foreach($data as $row): ?>
